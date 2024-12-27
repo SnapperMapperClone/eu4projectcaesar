@@ -1,0 +1,9 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = mongol
+add_accepted_culture = kurdish
+add_accepted_culture = armenian
+religion = sunni
+technology_group = muslim
+capital = 418
+religious_school = hanafi_school

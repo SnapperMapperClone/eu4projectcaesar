@@ -1,0 +1,15 @@
+version="0.0.1"
+tags={
+	"Balance"
+	"Alternative History"
+	"Expansion"
+	"Map"
+	"Missions And Decisions"
+	"New Nations"
+	"National Ideas"
+	"Historical"
+	"Fixes"
+	"Gameplay"
+}
+name="Project Caesar 1337"
+supported_version="v1.37.1.0"

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = ottoman_government
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+historical_rival = BYZ
+capital = 317 
+national_focus = MIL
+add_army_professionalism = 0.1
+religious_school = hanafi_school
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -10
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
