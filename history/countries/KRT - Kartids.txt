@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = tajik
+add_accepted_culture = khorasani
+religion = sunni
+technology_group = muslim
+capital = 446	# Herat

@@ -1,18 +1,16 @@
-# Muscovy and Pskov
+#1337 Diplomacy
 vassal = {
-	first = MOS
+	first = NOV
 	second = PSK
-	start_date = 1444.1.1
-	end_date = 1503.4.1
+}
+march = {
+	first = NOV
+	second = ORE
 }
 
-# Russia and Pskov
-vassal = {
-	first = RUS
-	second = PSK
-	start_date = 1503.4.2
-	end_date = 1510.1.19
-}
+
+
+
 
 # Muscovy and Yaroslavl
 vassal = {
@@ -20,14 +18,6 @@ vassal = {
 	second = YAR
 	start_date = 1444.1.1
 	end_date = 1463.1.1
-}
-
-# Muscovy and Beloozero
-vassal = {
-	first = MOS
-	second = BLO
-	start_date = 1444.1.1
-	end_date = 1486.1.1
 }
 
 # Muscovy and Rostov
@@ -52,22 +42,6 @@ vassal = {
 	second = QAS
 	start_date = 1503.4.2
 	end_date = 1681.1.1
-}
-
-# Muscovite vassal - Great Perm
-vassal = {
-	first = MOS
-	second = PRM
-	start_date = 1444.1.1
-	end_date = 1503.4.1
-}
-
-# Russian vassal - Great Perm
-vassal = {
-	first = RUS
-	second = PRM
-	start_date = 1503.4.1
-	end_date = 1505.4.1
 }
 
 # Ivan III and Maria of Tver

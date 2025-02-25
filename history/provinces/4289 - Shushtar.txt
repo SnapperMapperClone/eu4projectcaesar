@@ -1,7 +1,7 @@
 #4289 - Shushtar
 
 owner = JAL
-controller = JSL
+controller = JAL
 culture = persian
 religion = shiite
 capital = "Shushtar"

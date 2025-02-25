@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = oligarchy_reform
+primary_culture = khorasani
+religion = shiite
+technology_group = muslim
+capital = 2235

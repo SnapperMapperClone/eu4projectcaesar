@@ -1,7 +1,7 @@
 #450 - Balkh
 
-owner = CHG
-controller = CHG
+owner = KRT
+controller = KRT
 culture = afghani
 religion = sunni
 capital = "Balkh"
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = CHG
-add_core = AFG
+add_core = KRT
 discovered_by = KAS
 discovered_by = muslim
 discovered_by = ottoman

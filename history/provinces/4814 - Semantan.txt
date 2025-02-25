@@ -1,7 +1,7 @@
 owner = PAH
 controller = PAH
-culture = malayan
-religion = mahayana
+culture = orang_asli
+religion = animism
 capital = "Semantan"
 trade_goods = tropical_wood
 hre = no

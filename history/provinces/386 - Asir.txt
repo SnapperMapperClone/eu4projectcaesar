@@ -1,7 +1,8 @@
 #386 - Asir
 
-owner = MFL
-controller = MFL
+owner = HED
+controller = HED
+add_core = HED
 culture = hejazi_culture
 religion = shiite
 capital = "Bishah"
@@ -19,23 +20,3 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
 
-1515.1.1 = { discovered_by = POR }
-1627.1.1 = { #Zayidis
-	owner = RAS
-	controller = RAS
-	add_core = RAS
-}
-1728.1.1 = { #Mikhlaf - Dependency of the Zaidi Imams
-	owner = MFL
-	controller = MFL
-	add_core = MFL
-}
-1801.1.1 = {
-	owner = NAJ
-	controller = NAJ
-	add_core = NAJ
-} # Upper Asir
-1818.9.9 = {
-	owner = TUR
-	controller = TUR 
-} # The end of the Saudi State

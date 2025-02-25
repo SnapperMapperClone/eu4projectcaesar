@@ -277,6 +277,10 @@ RSO = "countries/Rostov.txt"
 
 GLK = "countries/Galich.txt"
 STD = "countries/Starodub.txt"
+ORE = "countries/Oreshek.txt"
+TUV = "countries/Turov.txt"
+MUR = "countries/Murom.txt"
+VLD = "countries/Vladimir.txt"
 
 GOL	= "countries/GreatHorde.txt"
 GLH = "countries/GoldenHorde.txt"
@@ -360,6 +364,8 @@ SLE = "countries/Sale.txt"
 TET = "countries/Tetouan.txt"
 MRK = "countries/Marrakesh.txt"
 
+CYR = "countries/Cyrenaica.txt"
+
 #Central Asia
 KZH	= "countries/Kazakh.txt"
 KHI	= "countries/Khiva.txt"
@@ -393,10 +399,21 @@ BSR = "countries/Basra.txt"
 MGR = "countries/Maregh.txt"
 QOM = "countries/Qom.txt"
 
+SKI = "countries/Shaki.txt"
+OSS = "countries/Alania.txt"
+
 SUT = "countries/Sutayids.txt"
+ATQ = "countries/Artuqids.txt"
 CHB = "countries/Chobanids.txt"
 JAL = "countries/Jalayirids.txt"
 INJ = "countries/Injuids.txt"
+SHK = "countries/Shabankara.txt"
+MUZ = "countries/Muzaffarids.txt"
+MIH = "countries/Mihrabanids.txt"
+KRT = "countries/Kartids.txt"
+SBD = "countries/Sarbadars.txt"
+GRG = "countries/Gurgan.txt"
+LRS = "countries/Larestan.txt"
 
 #Americas
 AZT = "countries/Aztec.txt"
@@ -760,6 +777,16 @@ TNJ = "countries/Tanjore.txt"
 SRH = "countries/Sirhind.txt"
 RJP = "countries/Rajputana.txt"
 
+SMA = "countries/Samma.txt"
+
+BTR = "countries/Bhatnir.txt"
+DGP = "countries/Dungarpur.txt"
+
+GOA = "countries/Goa.txt"
+HOY = "countries/Hoysala.txt"
+SBY = "countries/Sambuvarayar.txt"
+MBR = "countries/Mabar.txt"
+
 BAR	= "countries/Bar.txt"
 HSA	= "countries/Hansa.txt"
 SMO = "countries/Smolensk.txt"
@@ -828,6 +855,17 @@ MPH = "countries/MuanPhuang.txt"
 MYA = "countries/MongYang.txt"
 PRK = "countries/Perak.txt"
 
+PIN = "countries/Pinya.txt"
+SGN = "countries/Sagaing.txt"
+LAV = "countries/Lavo.txt"
+SUP = "countries/Suphanburi.txt"
+PHE = "countries/Phetchaburi.txt"
+TNY = "countries/Tenasserim.txt"
+
+GGN = "countries/GanggaNegara.txt"
+LGK = "countries/Langkasuka.txt"
+SGP = "countries/Singapura.txt"
+
 # Burma Additions
 MMA = "countries/MongMao.txt"
 MKA = "countries/MongKawng.txt"
@@ -886,6 +924,14 @@ TDO = "countries/Tondo.txt"
 MNA = "countries/Maynila.txt"
 CEB = "countries/Cebu.txt"
 BTU = "countries/Butuan.txt"
+
+PNE = "countries/Pannai.txt"
+ARU = "countries/Aru.txt"
+IDG = "countries/Keritang.txt"
+MEL = "countries/Melayu.txt"
+STB = "countries/Santubong.txt"
+MLN = "countries/Melanau.txt"
+SAG = "countries/Sanggau.txt"
 
 #South American Additions
 CSU = "countries/Cusco.txt"

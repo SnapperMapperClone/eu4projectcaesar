@@ -1,9 +1,9 @@
 #594 - Pattani
 
-owner = PAT
-controller = PAT
+owner = LGK
+controller = LGK
 culture = malayan
-religion = sunni
+religion = hinduism
 capital = "Pattani"
 trade_goods = tropical_wood
 hre = no
@@ -11,6 +11,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
+add_core = LGK
 add_core = PAT
 discovered_by = chinese
 discovered_by = indian
@@ -18,6 +19,3 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-
-1516.1.1 = { discovered_by = POR } # Godinho de Eredia
-

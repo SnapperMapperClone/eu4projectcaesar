@@ -11,5 +11,5 @@ tags={
 	"Fixes"
 	"Gameplay"
 }
-name="Project Caesar 1337"
-supported_version="v1.37.1.0"
+name="EU4 Project Caesar"
+supported_version="v1.37.5.0"

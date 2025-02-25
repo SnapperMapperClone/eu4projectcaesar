@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = sunni
+primary_culture = tamil
+capital = 536 #Madurai
+fixed_capital = 536 # Cannot move capital away from this province & no power cost to move to it

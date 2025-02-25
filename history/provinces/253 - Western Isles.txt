@@ -2,7 +2,7 @@
 
 owner = LOI
 controller = LOI
-culture = highland_scottish
+culture = norse_gaelic
 religion = catholic
 hre = no
 base_tax = 1 
@@ -18,12 +18,3 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1493.1.1 = {
-	owner = SCO
-	controller = SCO
-}
-1560.8.1 = { religion = reformed }
-1707.5.12 = {	owner = GBR
-	controller = GBR
-	add_core = GBR
-}

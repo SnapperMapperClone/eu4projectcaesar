@@ -2,7 +2,7 @@
 
 owner = MER
 controller = MER
-culture = rajput
+culture = mewari
 religion = hinduism
 capital = "Kotharia"
 trade_goods = gold #Silver and Zink mines
@@ -19,8 +19,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1568.1.1 = { capital = "Udaipur" } #Udaipur
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
 

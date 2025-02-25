@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+primary_culture = bagri
+religion = hinduism
+technology_group = indian
+capital = 4463
+fixed_capital = 4463

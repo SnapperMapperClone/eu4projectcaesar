@@ -1,9 +1,9 @@
 #2677 - Jambi
 
-owner = JMB
-controller = JMB
+owner = MEL
+controller = MEL
 culture = sumatran
-religion = sunni
+religion = mahayana
 capital = "Jambi"
 trade_goods = incense
 hre = no
@@ -11,12 +11,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+add_core = MEL
 add_core = JMB
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-

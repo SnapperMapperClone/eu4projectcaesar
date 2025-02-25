@@ -3,7 +3,7 @@
 owner = STE
 controller = STE
 add_core = STE
-culture = pommeranian
+culture = polabian
 religion = catholic
 trade_goods = naval_supplies
 hre = yes

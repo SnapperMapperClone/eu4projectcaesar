@@ -1,7 +1,8 @@
 # 2186 - Iman
 
-owner = NHX
-controller = NHX
+owner = YUA
+controller = YUA
+add_core = YUA
 add_core = NHX
 culture = manchu
 religion = tengri_pagan_reformed

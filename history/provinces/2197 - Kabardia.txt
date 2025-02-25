@@ -1,7 +1,7 @@
 #2197 - Kabardia
 
-owner = CIR
-controller = CIR
+owner = OSS
+controller = OSS
 culture = circassian
 religion = orthodox
 capital = "Nalchik"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = CIR
+add_core = OSS
 
 
 
@@ -20,11 +20,3 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-
-
-1569.1.1 = { owner = GAZ controller = GAZ } # Budai-Chopan conquest
-1801.1.18 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-} # Annexed by Russia
